@@ -4,6 +4,8 @@ A bridge from those who need to run Couchbase Lite on delphi
 # Assumptions
 1. You have Couchbase Server Installation
 2. You have installed Couchbase sync gateway
+3. Based on https://github.com/Branor/DelphiCouchbaseInterop  
+  - Needed for the delphi project to work - not crucial for the CouchbaseLite wrapper.
 
 # Usage
 0. In the code - localhost for syncGateway.
